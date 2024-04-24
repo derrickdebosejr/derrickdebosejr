@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @derrickdebosejr
-- 👀 I’m interested in Sofeware Engineering and Data Analytics
+- 👀 I’m interested in Software Engineering and Data Analytics Positions
 - 🌱 I’m a University of California, Santa Cruz graduate with a B.S in Computer Science
 - 📫 Reach me via email at: derrickdebosejr@gmail.com
 
